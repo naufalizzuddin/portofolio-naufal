@@ -1,0 +1,292 @@
+[
+  {
+    "id": "google-cybersecurity",
+    "title": "Google Cybersecurity Professional Certificate",
+    "issuer": "Google · Coursera",
+    "category": "security",
+    "date": "2026-08-10",
+    "file": "/certificates/google-cybersecurity.pdf",
+    "kind": "Professional Certificate",
+    "note": "",
+    "attachments": []
+  },
+  {
+    "id": "full-stack-development",
+    "title": "Full-Stack Development",
+    "issuer": "Komdigi · Digital Talent Scholarship",
+    "category": "web",
+    "date": "2026-10-19",
+    "file": "/certificates/full-stack-development.pdf",
+    "kind": "Pelatihan",
+    "note": "149 jam pelatihan · arsitektur, deployment, CI/CD, dan UAT",
+    "attachments": []
+  },
+  {
+    "id": "ccna-enterprise",
+    "title": "CCNA: Enterprise Networking, Security, and Automation",
+    "issuer": "Cisco Networking Academy",
+    "category": "network",
+    "date": "2026-01-08",
+    "file": "/certificates/ccna-enterprise.pdf",
+    "kind": "Penyelesaian kursus",
+    "note": "",
+    "attachments": []
+  },
+  {
+    "id": "associate-data-scientist",
+    "title": "Associate Data Scientist + Python",
+    "issuer": "Komdigi · Digital Talent Scholarship",
+    "category": "data",
+    "date": "2026-03-16",
+    "file": "/certificates/associate-data-scientist.pdf",
+    "kind": "Pelatihan",
+    "note": "31 jam pelatihan · Python, Pandas, NumPy, dan scikit-learn",
+    "attachments": []
+  },
+  {
+    "id": "frontend-backend",
+    "title": "Front-End & Back-End Development",
+    "issuer": "Komdigi · Digital Talent Scholarship",
+    "category": "web",
+    "date": "2026-10-19",
+    "file": "/certificates/frontend-backend.pdf",
+    "kind": "Pelatihan",
+    "note": "289 jam pelatihan · React, Express.js, database, dan pengujian",
+    "attachments": []
+  },
+  {
+    "id": "intermediate-web-developer",
+    "title": "Intermediate Assistant Web Developer",
+    "issuer": "Komdigi · Digital Talent Scholarship",
+    "category": "web",
+    "date": "2026-10-15",
+    "file": "/certificates/intermediate-web-developer.pdf",
+    "kind": "Pelatihan",
+    "note": "12,5 jam pelatihan",
+    "attachments": []
+  },
+  {
+    "id": "fundamental-web-developer",
+    "title": "Fundamental of Assistant Web Developer",
+    "issuer": "Komdigi · Digital Talent Scholarship",
+    "category": "web",
+    "date": "2026-10-15",
+    "file": "/certificates/fundamental-web-developer.pdf",
+    "kind": "Pelatihan",
+    "note": "11,5 jam pelatihan",
+    "attachments": []
+  },
+  {
+    "id": "programming-fundamental",
+    "title": "Programming Fundamental",
+    "issuer": "Komdigi · Digital Talent Scholarship",
+    "category": "web",
+    "date": "2026-10-15",
+    "file": "/certificates/programming-fundamental.pdf",
+    "kind": "Pelatihan",
+    "note": "102 jam pelatihan · HTML, CSS, JavaScript, dan DOM",
+    "attachments": []
+  },
+  {
+    "id": "final-cybersecurity",
+    "title": "Final Courses and Certificate Cybersecurity",
+    "issuer": "Komdigi · Google",
+    "category": "security",
+    "date": "2026-10-01",
+    "file": "/certificates/final-cybersecurity.pdf",
+    "kind": "Pelatihan",
+    "note": "78 jam pelatihan · deteksi, respons, dan otomasi Python",
+    "attachments": []
+  },
+  {
+    "id": "intermediate-cybersecurity-ai",
+    "title": "Intermediate Cybersecurity + AI Essentials",
+    "issuer": "Komdigi · Google",
+    "category": "security",
+    "date": "2026-09-25",
+    "file": "/certificates/intermediate-cybersecurity-ai.pdf",
+    "kind": "Pelatihan",
+    "note": "108 jam pelatihan",
+    "attachments": []
+  },
+  {
+    "id": "cybersecurity-dsarea",
+    "title": "Cyber Security",
+    "issuer": "DSAREA",
+    "category": "security",
+    "date": "2026-01-08",
+    "file": "/certificates/cybersecurity-dsarea.pdf",
+    "kind": "Pelatihan",
+    "note": "Nilai A · Desember 2025–Januari 2026",
+    "attachments": []
+  },
+  {
+    "id": "digital-safety",
+    "title": "Digital Safety and Security Awareness",
+    "issuer": "Cisco Networking Academy · Digitalent",
+    "category": "security",
+    "date": "2025-11-10",
+    "file": "/certificates/digital-safety.pdf",
+    "kind": "Pelatihan",
+    "note": "",
+    "attachments": []
+  },
+  {
+    "id": "intermediate-network",
+    "title": "Intermediate Associate Network Administrator",
+    "issuer": "Komdigi · Digital Talent Scholarship",
+    "category": "network",
+    "date": "2026-03-21",
+    "file": "/certificates/intermediate-network.pdf",
+    "kind": "Pelatihan",
+    "note": "12 jam pelatihan",
+    "attachments": []
+  },
+  {
+    "id": "fundamental-network",
+    "title": "Fundamental of Associate Network Administrator",
+    "issuer": "Komdigi · Digital Talent Scholarship",
+    "category": "network",
+    "date": "2026-03-21",
+    "file": "/certificates/fundamental-network.pdf",
+    "kind": "Pelatihan",
+    "note": "12 jam pelatihan",
+    "attachments": []
+  },
+  {
+    "id": "ccna-switching-routing",
+    "title": "CCNAv7: Switching, Routing, and Wireless Essentials",
+    "issuer": "Cisco Networking Academy",
+    "category": "network",
+    "date": "2024-08-01",
+    "file": "/certificates/ccna-switching-routing.pdf",
+    "kind": "Penyelesaian kursus",
+    "note": "",
+    "attachments": []
+  },
+  {
+    "id": "ccna-introduction",
+    "title": "CCNAv7: Introduction to Networks",
+    "issuer": "Cisco Networking Academy",
+    "category": "network",
+    "date": "2024-01-17",
+    "file": "/certificates/ccna-introduction.pdf",
+    "kind": "Penyelesaian kursus",
+    "note": "",
+    "attachments": [
+      {
+        "label": "Surat penyelesaian",
+        "file": "/certificates/ccna-introduction-letter.pdf"
+      }
+    ]
+  },
+  {
+    "id": "it-essentials",
+    "title": "IT Essentials",
+    "issuer": "Cisco Networking Academy",
+    "category": "network",
+    "date": "2023-01-13",
+    "file": "/certificates/it-essentials.pdf",
+    "kind": "Penyelesaian kursus",
+    "note": "",
+    "attachments": [
+      {
+        "label": "Surat penyelesaian",
+        "file": "/certificates/it-essentials-letter.pdf"
+      }
+    ]
+  },
+  {
+    "id": "intro-data-science",
+    "title": "Pengenalan Data Science dan Pemanfaatannya di Berbagai Sektor",
+    "issuer": "Komdigi · Micro Skill",
+    "category": "data",
+    "date": "2026-02-26",
+    "file": "/certificates/intro-data-science.pdf",
+    "kind": "Pelatihan",
+    "note": "1 jam pelatihan",
+    "attachments": []
+  },
+  {
+    "id": "revou-data-analytics",
+    "title": "Intro to Data Analytics",
+    "issuer": "RevoU",
+    "category": "data",
+    "date": "2026-01-02",
+    "file": "/certificates/revou-data-analytics.pdf",
+    "kind": "Pelatihan",
+    "note": "Mini course selama satu minggu",
+    "attachments": []
+  },
+  {
+    "id": "huawei-hcia-ai",
+    "title": "HCIA-AI V3.5 Course",
+    "issuer": "Huawei Talent Online",
+    "category": "data",
+    "date": "2024-11-25",
+    "file": "/certificates/huawei-hcia-ai.png",
+    "kind": "Penyelesaian kursus",
+    "note": "Tersedia dalam dua versi bahasa",
+    "attachments": [
+      {
+        "label": "Versi Bahasa Indonesia",
+        "file": "/certificates/huawei-hcia-ai-indonesian.png"
+      }
+    ]
+  },
+  {
+    "id": "database-design",
+    "title": "Database Design",
+    "issuer": "Oracle Academy",
+    "category": "web",
+    "date": "2024-03-28",
+    "file": "/certificates/database-design.pdf",
+    "kind": "Penyelesaian kursus",
+    "note": "",
+    "attachments": []
+  },
+  {
+    "id": "database-foundations",
+    "title": "Database Foundations",
+    "issuer": "Oracle Academy",
+    "category": "web",
+    "date": "2024-03-31",
+    "file": "/certificates/database-foundations.pdf",
+    "kind": "Penyelesaian kursus",
+    "note": "",
+    "attachments": []
+  },
+  {
+    "id": "tech-talk-ai-web",
+    "title": "Tech Talk 4.0: The Future of AI in Web Development",
+    "issuer": "GDSC Widyatama University",
+    "category": "event",
+    "date": "2024-05-10",
+    "file": "/certificates/tech-talk-ai-web.png",
+    "kind": "Peserta seminar",
+    "note": "",
+    "attachments": []
+  },
+  {
+    "id": "toefl-itp",
+    "title": "TOEFL ITP · Skor 573",
+    "issuer": "TOEFL ITP · Student Score Report",
+    "category": "language",
+    "date": "2026-10-30",
+    "file": "/certificates/toefl-itp.pdf",
+    "kind": "Laporan hasil tes",
+    "note": "Unofficial Student Score Report · Listening 56, Structure 56, Reading 60",
+    "attachments": []
+  },
+  {
+    "id": "seu-english",
+    "title": "SEU English Proficiency Test · Skor 69",
+    "issuer": "Service English Unit · Universitas Diponegoro",
+    "category": "language",
+    "date": "2026-04-29",
+    "file": "/certificates/seu-english.pdf",
+    "kind": "Hasil tes bahasa",
+    "note": "Setara SEU TOEFL Prediction 570",
+    "attachments": []
+  }
+]

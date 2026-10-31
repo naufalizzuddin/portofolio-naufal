@@ -1,0 +1,50 @@
+@layer base{html,body{margin:0;padding:0;}main>:first-child{margin-top:0!important;}main>:last-child{margin-bottom:0!important;}}
+/* Hero custom animations & dot grid */
+.hero-dot-grid {
+  background-image: radial-gradient(rgba(255, 255, 255, 0.05) 1px, transparent 1px);
+  background-size: 24px 24px;
+  mask-image: radial-gradient(ellipse 65% 65% at 50% 45%, #000 30%, transparent 85%);
+  -webkit-mask-image: radial-gradient(ellipse 65% 65% at 50% 45%, #000 30%, transparent 85%);
+}
+
+@keyframes heroFloatCard {
+  0%, 100% { transform: translateY(0px) rotate(1deg); }
+  50% { transform: translateY(-5px) rotate(1deg); }
+}
+
+@keyframes heroFloatBadge1 {
+  0%, 100% { transform: translateY(0px); }
+  50% { transform: translateY(-4px); }
+}
+
+@keyframes cursorBlink {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0; }
+}
+
+@keyframes bounceSlow {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(5px); }
+}
+
+.anim-float-card {
+  animation: heroFloatCard 6s ease-in-out infinite;
+}
+
+.anim-float-badge-1 {
+  animation: heroFloatBadge1 4.5s ease-in-out infinite;
+}
+
+.cursor-blink {
+  animation: cursorBlink 0.9s infinite;
+}
+
+.scroll-bounce {
+  animation: bounceSlow 2s infinite ease-in-out;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .anim-float-card, .anim-float-badge-1, .cursor-blink, .scroll-bounce {
+    animation: none !important;
+  }
+}
